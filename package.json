@@ -1,0 +1,15 @@
+{
+  "name": "netgsm-proxy",
+  "version": "1.0.0",
+  "description": "NetGSM proxy for voice calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["netgsm", "voice", "proxy"],
+  "author": "Pakiş Mali Müşavirlik",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
